@@ -1,9 +1,9 @@
 def using_while
   levitation_force = 6
-  phase = "Wingardium Leviosa"
+  phrase = "Wingardium Leviosa"
   
-  while
-  puts 
+  while 
+  puts phrase
   
 	
   #your code here
